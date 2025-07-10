@@ -1,4 +1,6 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/patilconsultancy/patilconsultancy/main/logo.png" alt="Patil Consultancy Logo" width="250">
+</p><p align="center">
   <img src="https://via.placeholder.com/300x100?text=Patil+Consultancy+Logo" alt="Patil Consultancy Logo" width="300" />
 </p>
 
